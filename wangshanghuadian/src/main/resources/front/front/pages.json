@@ -1,0 +1,377 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#EF96C5",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#EF96C5",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+ 	,{
+		"path": "pages/address/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "添加地址"
+		}
+	},{
+		"path": "pages/address/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的地址"
+		}
+	}
+	,{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的购物车"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加/修改"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天展示"
+		}
+	},{
+		"path": "pages/chat/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的客服聊天"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天添加/修改"
+		}
+	},{
+		"path": "pages/chat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/gonggao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/gonggao/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告信息"
+		}
+	},{
+		"path": "pages/gonggao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加/修改"
+		}
+	},{
+		"path": "pages/gonggao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/xianhua/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花展示"
+		}
+	},{
+		"path": "pages/xianhua/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的鲜花"
+		}
+	},{
+		"path": "pages/xianhua/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花添加/修改"
+		}
+	},{
+		"path": "pages/xianhua/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花详情"
+		}
+	}
+	,{
+		"path": "pages/xianhuaCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花收藏展示"
+		}
+	},{
+		"path": "pages/xianhuaCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的鲜花收藏"
+		}
+	},{
+		"path": "pages/xianhuaCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花收藏添加/修改"
+		}
+	},{
+		"path": "pages/xianhuaCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花收藏详情"
+		}
+	}
+	,{
+		"path": "pages/xianhuaCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花评价展示"
+		}
+	},{
+		"path": "pages/xianhuaCommentback/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的鲜花评价"
+		}
+	},{
+		"path": "pages/xianhuaCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花评价添加/修改"
+		}
+	},{
+		"path": "pages/xianhuaCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "鲜花评价详情"
+		}
+	}
+	,{
+		"path": "pages/xianhuaOrder/list",
+		"style": {
+			"navigationBarTitleText": "鲜花订单"
+		}
+	},{
+	 	"path": "pages/xianhuaOrder/add-or-update",
+		"style": {
+			"navigationBarTitleText": "鲜花订单添加/修改"
+		}
+	},{
+		"path": "pages/xianhuaOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "网上花店微信小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "网上花店微信小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#95d3d9",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/gonggao/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "公告信息"
+			}
+			,{
+				"pagePath": "pages/xianhua/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "鲜花"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛交流"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
